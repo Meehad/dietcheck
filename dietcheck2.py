@@ -10,7 +10,7 @@ class App(customtkinter.CTk):
                 super().__init__()
                 
                 self.title("Diet Check")
-                self.iconbitmap("C:/Users/Safiya/Desktop/meehad17/dietcheck/favicon.ico")
+                self.iconbitmap("./dicon.ico")
                 self.geometry(f"{400}x{380}")
                 self.grid_columnconfigure(1, weight=1)
                 self.grid_columnconfigure((2, 3), weight=0)
@@ -122,7 +122,7 @@ class App(customtkinter.CTk):
                 root2=customtkinter.CTkToplevel()
                 root2.title("Diet Check")
                 root2.configure(background="white")
-                root2.iconbitmap('C:/Users/Safiya/Desktop/meehad17/dietcheck/favicon.ico')
+                root2.iconbitmap('./dicon.ico')
                 def Exit2():
                         root2.destroy()
                         return
