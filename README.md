@@ -18,7 +18,7 @@ Diet Check is a simple yet helpful desktop application designed to give dietary 
 - CustomTkinter
 
 ## Collaborator
-- **Nabeel**
+- [Nabeel](https://github.com/Nabeelnazer)
 
 ## Token of Appreciation
 A special thanks to **Tom Schimansky**, the founder of CustomTkinter, for creating this amazing library. Check out his work on [GitHub](https://github.com/TomSchimansky/CustomTkinter).
